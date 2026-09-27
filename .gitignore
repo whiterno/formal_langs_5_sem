@@ -1,0 +1,15 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environment and test coverage
+.venv/
+.coverage
+htmlcov/
+
+# Editor and OS files
+.vscode/
+.DS_Store
